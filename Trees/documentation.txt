@@ -1,0 +1,8 @@
+'inorder' to print tree inorder
+'preorder' to print tree preorder
+'postorder' to print tree postorder
+'max' to find the greatest element in the Tree
+'min' to find the least element in the Tree
+'find' and integer value to find it in the Tree
+'inf' and integer value to find all the information about exact node
+Only integer values can be accepted as a node value
